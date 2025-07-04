@@ -1,29 +1,32 @@
-# PRODIGY_DS-01
+# 🌍 PRODIGY_DS_01: Visualizing World Population Trends
 
-## Task
+## 📌 Overview
 
-Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable.  
-Using the World Bank population dataset, we visualize the population of selected countries for the year 2022.
-
----
-
-## Files
-
-- `script.py` : Python code to load data and generate the bar chart.  
-- `output.png` : The generated bar chart image showing population distribution.  
-- `README.md` : This file.
+As part of the data visualization internship task, this project explores global population trends using data from the World Bank.  
+The goal is to craft an insightful **bar chart** or **histogram** to represent the distribution of a continuous variable — in this case, **country-wise population for the year 2022**.
 
 ---
 
-## How to run
+## 📁 Project Contents
 
-1. Download the World Bank population CSV from:  
-   [https://data.worldbank.org/indicator/SP.POP.TOTL](https://data.worldbank.org/indicator/SP.POP.TOTL)
+- `script.py` – Python script that reads, cleans, and visualizes the dataset.  
+- `output.png` – A crisp bar chart showing the **Top 10 most populated countries**.  
+- `README.md` – This documentation file.
 
-2. Place the CSV file in the same directory as `script.py`, and name it:  
-   **Task-01.csv**
+---
 
-3. Run the script:
+## 🚀 How to Run
 
-```bash
-python script.py
+1. **Download the dataset**  
+   Grab the latest population dataset from:  
+   [🌐 World Bank: SP.POP.TOTL](https://data.worldbank.org/indicator/SP.POP.TOTL)
+
+2. **Set up your workspace**  
+   Place the downloaded file in the same folder as `script.py` and rename it as:  
+   **`Task-01.csv`**
+
+3. **Execute the script**  
+   Open a terminal and run:
+
+   ```bash
+   python script.py

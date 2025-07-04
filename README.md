@@ -1,13 +1,13 @@
-# 🌍 PRODIGY_DS_01: Visualizing World Population Trends
+# PRODIGY_DS-01
 
-## 📌 Overview
+##  Overview
 
 As part of the data visualization internship task, this project explores global population trends using data from the World Bank.  
 The goal is to craft an insightful **bar chart** or **histogram** to represent the distribution of a continuous variable — in this case, **country-wise population for the year 2022**.
 
 ---
 
-## 📁 Project Contents
+##  Project Contents
 
 - `script.py` – Python script that reads, cleans, and visualizes the dataset.  
 - `output.png` – A crisp bar chart showing the **Top 10 most populated countries**.  
@@ -15,7 +15,7 @@ The goal is to craft an insightful **bar chart** or **histogram** to represent t
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Download the dataset**  
    Grab the latest population dataset from:  

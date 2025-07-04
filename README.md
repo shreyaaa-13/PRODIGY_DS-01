@@ -3,7 +3,7 @@
 ##  Overview
 
 As part of the data visualization internship task, this project explores global population trends using data from the World Bank.  
-The goal is to craft an insightful **bar chart** or **histogram** to represent the distribution of a continuous variable — in this case, **country-wise population for the year 2022**.
+The goal is to craft an insightful **bar chart** or **histogram** to represent the distribution of a continuous variable — in this case, **country-wise population for the year 2024**.
 
 ---
 

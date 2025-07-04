@@ -30,3 +30,6 @@ The goal is to craft an insightful **bar chart** or **histogram** to represent t
 
    ```bash
    python script.py
+
+## Output
+![Screenshot 2025-07-04 221525](https://github.com/user-attachments/assets/3639a1c6-8a15-4180-a779-33547af71b9f)
